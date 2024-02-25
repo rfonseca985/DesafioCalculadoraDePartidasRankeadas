@@ -8,11 +8,11 @@ Clone o repositório para o seu ambiente local:
 
 git clone https://github.com/rfonseca1985/DesafioCalculadoraDePartidasRankeadas
 
-cd calculadora-ranqueadas
+cd calcularNivel
 
 Execute o arquivo JavaScript com um interpretador Node.js ou em um ambiente que suporte JavaScript.
 
-node calculadora_ranqueadas.js
+node calcularNivel.js
 
 Insira a quantidade de vitórias e derrotas quando solicitado.
 
